@@ -9,6 +9,7 @@ class Card():
         self.suit=suit # class using suit
         self.rank=rank # class using rank
 
+
     def __str__(self):
 
         return self.rank +  ' Of ' + self.suit # returns a string version of the suit and rank together in a sentence but it cant be implemented yet as it is a tuple + a string + a tuple
