@@ -1,0 +1,5 @@
+*.sln
+*.pyproj
+*.json
+*.pyc
+*.suo
